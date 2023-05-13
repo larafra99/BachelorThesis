@@ -11,7 +11,7 @@ https://github.com/larafra99/SoftwareDesign/tree/main/Carsharing
 ## Grafische Datenverarbeitung mit Phyton 
 https://github.com/larafra99/gdv-WiSe2021_22/tree/main/assignments 
 
-## Projektstudium - Markdown in der HFu Lehre
+## Projektstudium - Markdown in der HFU Lehre
 Erstellung einer Plattform die Markdown in HTML-Code umwandelt
 
 https://github.com/TutiEgg/lecturup/commits/main 
